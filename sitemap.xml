@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hyunjung.meroh.net/doodle/good-to-great/</loc>
-    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <loc>https://hyunjung.meroh.net/travel/lakeketchum/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hyunjung.meroh.net/</loc>
+    <lastmod>2021-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hyunjung.meroh.net/doodle/good-to-great/</loc>
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hyunjung.meroh.net/doodle/on-the-root-of-scv/</loc>
@@ -46,5 +49,7 @@
     <loc>https://hyunjung.meroh.net/food/</loc>
   </url><url>
     <loc>https://hyunjung.meroh.net/doodle/</loc>
+  </url><url>
+    <loc>https://hyunjung.meroh.net/travel/</loc>
   </url>
 </urlset>

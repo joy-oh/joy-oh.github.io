@@ -6,7 +6,16 @@
     <description>Recent content in Welcome! on Joy&#43;Full</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hyunjung.meroh.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hyunjung.meroh.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lake Ketchum</title>
+      <link>https://hyunjung.meroh.net/travel/lakeketchum/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyunjung.meroh.net/travel/lakeketchum/</guid>
+      <description>I love traveling. Traveling makes me refreshed, opens new views to the world and people. It has been a while since Covid-19 started. We stopped all trips including family visiting.</description>
+    </item>
+    
     <item>
       <title>Good to Great</title>
       <link>https://hyunjung.meroh.net/doodle/good-to-great/</link>
@@ -144,6 +153,15 @@ I love burrito for it&#39;s flavorful ingredients and its chewy tortilla.</descr
       
       <guid>https://hyunjung.meroh.net/doodle/</guid>
       <description>Welcome to Joy&#39;s Doodle Space! </description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>https://hyunjung.meroh.net/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hyunjung.meroh.net/travel/</guid>
+      <description> Enjoy Your Time Off </description>
     </item>
     
   </channel>
